@@ -20,6 +20,8 @@
         <item>친구</item>
         <item>선생님</item>
 
+
+
     </string-array>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
