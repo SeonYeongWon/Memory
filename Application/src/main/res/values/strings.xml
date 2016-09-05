@@ -27,4 +27,7 @@
     <string name="drawer_close">Close navigation drawer</string>
     <string name="action_websearch">Web search</string>
     <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="myfamily">가족</string>
+    <string name="myfriend">친구</string>
+    <string name="myteacher">선생님</string>
 </resources>
