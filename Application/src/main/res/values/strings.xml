@@ -30,4 +30,9 @@
     <string name="myfamily">가족</string>
     <string name="myfriend">친구</string>
     <string name="myteacher">선생님</string>
+    <string name="menu_share">Share</string>
+    <string name="quote_1">Expectation is the root of all heartache - William Shakespeare</string>
+    <string name="quote_2">The true sign of intelligence is not knowledge but imagination - Albert
+        Einstein</string>
+    <string name="quote_3">As for me, all I know is that I know nothing - Socrates</string>
 </resources>
