@@ -210,6 +210,7 @@
     <dimen name="notification_subtext_size">12dp</dimen>
     <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="tile"/>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
@@ -270,12 +271,17 @@
         
         
     </string>
+    <string name="menu_share">Share</string>
     <string name="myfamily">가족</string>
     <string name="myfriend">친구</string>
     <string name="myteacher">선생님</string>
     <string name="navigationdraweractivity_description">This example illustrates a common usage of the DrawerLayout widget in the Android
             support library.</string>
     <string name="navigationdraweractivity_title">Navigation Drawer Example</string>
+    <string name="quote_1">Expectation is the root of all heartache - William Shakespeare</string>
+    <string name="quote_2">The true sign of intelligence is not knowledge but imagination - Albert
+        Einstein</string>
+    <string name="quote_3">As for me, all I know is that I know nothing - Socrates</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
@@ -1674,5 +1680,11 @@
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
         <item name="android:lineSpacingMultiplier">1.1</item>
         <item name="android:textColor">@color/black_54</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
     </style>
 </resources>
